@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @logitec1994
 - 👀 I’m interested in python development
-- 🌱 I’m currently learning English and Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on company or 
 - 📫 How to reach me - (0662103805, 0939210453) TG, Viber, Mobile
 
